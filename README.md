@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arafatmulla88
-- 👀 I’m interested in Data Vizualisation projects
+- 👀 I’m interested in Data Visualisation projects
 - 🌱 I’m currently learning Data Analytics
 - 📫 How to reach me arafatmulla88@gmail.com
 
